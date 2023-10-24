@@ -1,5 +1,5 @@
 # quizzler
-![quizzler-demo](https://github.com/Devendra072002/Quizzler-App-Flutter/assets/95930224/1c050634-92f0-486e-8d4e-412ad010534c)
+![quizzler-demo](https://github.com/Devendra072002/Quizzler-App-Flutter/assets/95930224/5bc16774-e9fa-47f9-b9db-d563cbd6198d)
 
 A new Flutter project.
 
